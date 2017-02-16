@@ -1,6 +1,6 @@
 # tweet-downloader
 
-This repository contains a simple script that can be used to download the tweets included in Parde et al.'s (2017) Twitter dataset for sarcasm detection (or any other tweets for which you have IDs).
+This repository contains a simple script that can be used to download the tweets included in Parde and Nielsen's (2017) Twitter dataset for sarcasm detection (or any other tweets for which you have IDs).
 
 If you use the tweets in this dataset for your own research, please cite the following paper:
 
